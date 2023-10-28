@@ -1,1 +1,1 @@
-This is a NextJS Helm chart
+NextJS Helm chart
